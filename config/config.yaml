@@ -1,0 +1,8 @@
+logging:
+  level: INFO
+  file: logs/project.log
+class_settings:
+  module1:
+    threshold: 0.5
+  module2:
+    retry_attempts: 3
