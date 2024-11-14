@@ -1,3 +1,3 @@
 # Project structure
 
-# ![image](![alt text](image.png))
+# ![alt text](image.png)
