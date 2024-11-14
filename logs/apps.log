@@ -30,3 +30,11 @@
 2024-11-04 12:20:52,401 - WARNING - No data available for AAPL
 2024-11-04 12:20:52,858 - WARNING - No data available for META
 2024-11-04 12:20:53,008 - WARNING - No data available for AMZN
+2024-11-13 11:56:27,961 - INFO - Current price of AAPL: 224.0600
+2024-11-13 11:56:27,977 - INFO - Current price of META: 582.5600
+2024-11-13 11:56:27,993 - INFO - Current price of AMZN: 208.9800
+2024-11-13 11:56:28,295 - INFO - Current price of MSFT: 423.1500
+2024-11-13 11:56:58,536 - INFO - Current price of AAPL: 224.0600
+2024-11-13 11:56:58,561 - INFO - Current price of META: 582.5600
+2024-11-13 11:56:58,667 - INFO - Current price of AMZN: 208.9800
+2024-11-13 11:56:58,790 - INFO - Current price of MSFT: 423.1500
